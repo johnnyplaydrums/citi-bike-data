@@ -1,1 +1,1 @@
-# citi-bike-data
+# Exploring the Citi Bike system data set
